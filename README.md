@@ -52,7 +52,7 @@ Contributions are welcome! To contribute:
 5. Create a pull request.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/vtandon1204/meet/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/diya-burman/meet/blob/main/LICENSE) file for details.
 
 ## Contact
 For any inquiries or issues, feel free to reach out or open an issue in the repository.
